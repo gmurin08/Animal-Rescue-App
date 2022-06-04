@@ -1,4 +1,4 @@
-# Animal-Rescue-App
+# Database Management and Visualization
 
 ![Screenshot](assets/CS340.gif)
 
